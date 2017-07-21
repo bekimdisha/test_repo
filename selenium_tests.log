@@ -1,0 +1,98 @@
+2017-07-20 17:24:44,616 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:25:17,686 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:26:32,644 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:26:52,504 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:27:41,543 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:28:32,579 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:29:17,665 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:29:46,378 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:29:59,687 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:30:30,760 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:30:58,485 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:30:58,486 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:31:03,898 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:31:09,746 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:31:09,997 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:31:14,067 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:31:19,485 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:33:47,895 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:33:47,897 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:33:53,085 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:33:53,933 INFO      setup_logger 140736083628992 test_signup started!
+2017-07-20 17:34:01,132 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:34:01,843 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:34:02,144 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:34:06,135 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:34:11,637 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:35:11,328 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:35:11,329 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:35:16,771 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:35:16,783 INFO      setup_logger 140736083628992 test_signup started!
+2017-07-20 17:35:24,326 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:35:24,785 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:35:24,785 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:35:25,111 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:35:29,449 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:35:34,695 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:35:34,696 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:36:18,372 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:36:18,372 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:36:24,066 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:36:24,859 INFO      setup_logger 140736083628992 test_signup started!
+2017-07-20 17:36:33,044 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:36:33,045 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:36:35,304 INFO      setup_logger 140736083628992 test_signup ended!
+2017-07-20 17:36:35,305 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:36:35,694 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:36:39,611 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:36:44,759 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:36:44,760 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:43:40,683 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:43:40,684 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:43:46,539 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:43:47,009 INFO      setup_logger 140736083628992 test_signup started!
+2017-07-20 17:43:49,108 INFO      setup_logger 140736083628992 filling signup form with username bekimdisha
+2017-07-20 17:43:49,506 INFO      setup_logger 140736083628992 attempting to login with username bekimdisha@gmail.com
+2017-07-20 17:43:51,365 INFO      setup_logger 140736083628992 filling signup form with email bekimdisha@gmail.com
+2017-07-20 17:43:52,434 INFO      setup_logger 140736083628992 attempting to login with password !bekim123!
+2017-07-20 17:43:53,320 INFO      setup_logger 140736083628992 filling signup form with password !bekim123!
+2017-07-20 17:43:55,439 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:43:55,439 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:43:56,721 INFO      setup_logger 140736083628992 test_signup ended!
+2017-07-20 17:43:56,722 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:43:57,040 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:44:00,981 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:44:02,398 INFO      setup_logger 140736083628992 attempting to login with username bekimdisha@gmail.com
+2017-07-20 17:44:03,882 INFO      setup_logger 140736083628992 attempting to login with password !bekim123!
+2017-07-20 17:44:06,403 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:44:06,403 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:44:28,788 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:44:28,790 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:44:33,993 INFO      setup_logger 140736083628992 test_signup started!
+2017-07-20 17:44:34,730 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:44:37,363 INFO      setup_logger 140736083628992 attempting to login with username bekimdisha@gmail.com
+2017-07-20 17:44:37,836 INFO      setup_logger 140736083628992 filling signup form with username bekimdisha
+2017-07-20 17:44:39,961 INFO      setup_logger 140736083628992 attempting to login with password !bekim123!
+2017-07-20 17:44:40,082 INFO      setup_logger 140736083628992 filling signup form with email bekimdisha@gmail.com
+2017-07-20 17:44:41,720 INFO      setup_logger 140736083628992 filling signup form with password !bekim123!
+2017-07-20 17:44:42,858 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:44:42,858 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:44:45,317 INFO      setup_logger 140736083628992 test_signup ended!
+2017-07-20 17:44:45,317 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:44:45,600 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:44:49,574 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:44:50,976 INFO      setup_logger 140736083628992 attempting to login with username bekimdisha@gmail.com
+2017-07-20 17:44:52,523 INFO      setup_logger 140736083628992 attempting to login with password !bekim123!
+2017-07-20 17:45:41,245 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:45:41,248 INFO      setup_logger 140736083628992 Test Suite Setup started!
+2017-07-20 17:45:47,590 INFO      setup_logger 140736083628992 test_login started!
+2017-07-20 17:45:47,994 INFO      setup_logger 140736083628992 test_signup started!
+2017-07-20 17:45:51,313 INFO      setup_logger 140736083628992 attempting to login with username bekimdisha@gmail.com
+2017-07-20 17:45:51,489 INFO      setup_logger 140736083628992 filling signup form with username bekimdisha
+2017-07-20 17:45:53,445 INFO      setup_logger 140736083628992 filling signup form with email bekimdisha@gmail.com
+2017-07-20 17:45:53,699 INFO      setup_logger 140736083628992 attempting to login with password !bekim123!
+2017-07-20 17:45:55,125 INFO      setup_logger 140736083628992 filling signup form with password !bekim123!
+2017-07-20 17:45:56,643 INFO      setup_logger 140736083628992 test_login ended!
+2017-07-20 17:45:56,644 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
+2017-07-20 17:45:58,698 INFO      setup_logger 140736083628992 test_signup ended!
+2017-07-20 17:45:58,699 INFO      setup_logger 140736083628992 Test Suite finished. Tearning down setup!
